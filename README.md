@@ -4,7 +4,7 @@
 songs é uma aplicação full stack web que simula uma plataforma de streaming de músicas, onde os usuários podem pesquisar, ouvir faixas e criar playlists.
 
 ## Telas
-![login](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/login.gif)
+![login](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/blob/main/login.gif)
 ![register](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/register.gif)
 ![buscar musica](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/buscarmusica.gif)
 ![tela principal](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/dash.png)
