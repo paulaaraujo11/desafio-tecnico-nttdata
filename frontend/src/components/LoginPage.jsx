@@ -1,18 +1,25 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link,useNavigate } from 'react-router-dom';
 import axios from '../services/api';
 import AnimatedLogo from './AnimatedLogo';
+
 
 export default function LoginPage({ onLogin }) {
   const [email, setEmail] = useState('');
   const [senha, setSenha] = useState('');
   const [error, setError] = useState('');
-
+  const navigate = useNavigate();
+  
   const handleSubmit = async e => {
     e.preventDefault();
     try {
-      const res = await axios.post('/login', { email, senha });
-      onLogin(res.data.token);
+      const res = await axios.post('api/auth/login', { email, senha });
+      const { token, user } = res.data;
+      onLogin(token);      
+      localStorage.setItem('token', res.data.token);
+      localStorage.setItem('user', JSON.stringify({ id: user.id, name: user.nome, email: user.email }));
+
+      navigate('/dashboard'); 
     } catch (err) {
       setError('E-mail ou senha inválidos.');
     }
