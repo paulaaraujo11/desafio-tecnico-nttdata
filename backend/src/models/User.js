@@ -7,7 +7,6 @@ const UserSchema = new mongoose.Schema({
   senha: String
 });
 
-// Hash da senha antes de salvar
 UserSchema.pre('save', async function(next) {
   if (!this.isModified('senha')) return next();
   this.senha = await bcrypt.hash(this.senha, 10);
