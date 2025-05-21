@@ -44,7 +44,7 @@ songs é uma aplicação full stack web que simula uma plataforma de streaming d
 
 ## Estrutura do Projeto
 
-```
+
 ```
 desafio-tecnico-nttdata/
 │
@@ -76,7 +76,6 @@ desafio-tecnico-nttdata/
 ├── docker-compose.yml
 ├── .gitignore
 └── README.md
-```
 ```
 
 ## Gitflow
