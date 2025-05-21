@@ -6,7 +6,7 @@ songs é uma aplicação full stack web que simula uma plataforma de streaming d
 ## Telas
 ![login](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/blob/develop/assets/login.gif)
 ![register](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/blob/develop/assets/register.gif)
-![buscar musica](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/blob/develop/assets/buscarmusica.gif)
+![buscar musica](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/blob/develop/assets/buscarmusica.gif)
 ![tela principal](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/blob/develop/assets/dash.png)
 
 
