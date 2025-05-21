@@ -45,7 +45,6 @@ songs é uma aplicação full stack web que simula uma plataforma de streaming d
 ## Estrutura do Projeto
 
 ```
-```
 desafio-tecnico-nttdata/
 │
 ├── assets/
@@ -77,7 +76,7 @@ desafio-tecnico-nttdata/
 ├── .gitignore
 └── README.md
 ```
-```
+
 
 ## Gitflow
 
@@ -107,5 +106,3 @@ Veja o arquivo `.gitignore` para evitar versionar arquivos desnecessários.
 
 Paula Araujo
 https://www.linkedin.com/in/paulaaraujo11/
-
-https://api.deezer.com/search?q=track:"single ladies"
