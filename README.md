@@ -5,13 +5,13 @@ songs é uma aplicação full stack web que simula uma plataforma de streaming d
 
 ## Telas
 ![login](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/blob/main/assets/login.gif)
-![register](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/register.gif)
-![buscar musica](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/buscarmusica.gif)
-![tela principal](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/dash.png)
+![register](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/blob/main/assets/register.gif)
+![buscar musica](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/blob/main/assets/buscarmusica.gif)
+![tela principal](ttps://github.com/paulaaraujo11/desafio-tecnico-nttdata/blob/main/assets/dash.png)
 
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/assets/main/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/paulaaraujo11/desafio-tecnico-nttdata/blob/main/assets/modelo-conceitual.png)
 
 ## Pré-requisitos
 
